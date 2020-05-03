@@ -102,3 +102,4 @@ yarn-debug.log*
 
 # manual
 /tmp/
+.DS_Store
